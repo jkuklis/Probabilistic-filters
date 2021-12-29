@@ -19,7 +19,7 @@ func BenchmarkCreateBloom1(b *testing.B) {
 		fp float64
 	}{
 		{fp: 0.01},
-		{fp: 0.1},
+		{fp: 0.001},
 	}
 
 	for _, s := range sizes {

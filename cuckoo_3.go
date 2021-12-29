@@ -16,7 +16,7 @@ func CreateCuckoo3() {
 	}
 
 	var bytes = []uint {4}
-	var fingerprints = []uint {8, 9, 10}
+	var fingerprints = []uint {8, 9, 10, 16}
 
 	for _, s := range sizes {
 		for _, b := range bytes {
