@@ -1,6 +1,6 @@
-package main
+package my_main
 
-func main() {
+func my_main() {
 	CreateBloom1()
 	CreateCuckoo1()
 	CreateCuckoo2()

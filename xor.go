@@ -1,4 +1,4 @@
-package main
+package my_main
 
 import (
 	"os"
